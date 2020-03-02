@@ -10,7 +10,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @MapperScan("com.tz.securitydemo.mapper")
 public class TZSecurityDemo {
 
-    //A
     public static void main(String[] args) {
         SpringApplication.run(TZSecurityDemo.class, args);
     }
