@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c38f027-ad0a-4bea-8d5b-564b774da3ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tz-redis-test/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -110,13 +111,17 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="508" y="232" key="NewModule_or_Project.wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1583130027112" />
-    <state x="384" y="113" key="SettingsEditor" timestamp="1583131670778">
+    <state x="384" y="113" key="SettingsEditor" timestamp="1583132002781">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1583131670778" />
-    <state x="273" y="154" key="new project wizard" timestamp="1583131638764">
+    <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1583132002781" />
+    <state x="273" y="154" key="new project wizard" timestamp="1583131984076">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="273" y="154" key="new project wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1583131638764" />
+    <state x="273" y="154" key="new project wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1583131984076" />
+    <state x="734" y="329" key="svn.repositoryBrowser" timestamp="1583131885441">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="734" y="329" key="svn.repositoryBrowser/0.23.1792.1017@0.23.1792.1017" timestamp="1583131885441" />
   </component>
 </project>

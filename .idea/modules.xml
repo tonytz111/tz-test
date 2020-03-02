@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/tz-es-demo/tz-es-demo.iml" filepath="$PROJECT_DIR$/tz-es-demo/tz-es-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tz-redis/tz-redis.iml" filepath="$PROJECT_DIR$/../tz-redis/tz-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tz-redis-test/tz-redis-test.iml" filepath="$PROJECT_DIR$/tz-redis-test/tz-redis-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/tz-springsecurity-test/tz-springsecurity-test.iml" filepath="$PROJECT_DIR$/tz-springsecurity-test/tz-springsecurity-test.iml" />
     </modules>
   </component>
