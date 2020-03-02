@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c38f027-ad0a-4bea-8d5b-564b774da3ee" name="Default Changelist" comment="" />
+    <list default="true" id="5c38f027-ad0a-4bea-8d5b-564b774da3ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -107,5 +110,13 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="508" y="232" key="NewModule_or_Project.wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1583130027112" />
+    <state x="384" y="113" key="SettingsEditor" timestamp="1583131670778">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1583131670778" />
+    <state x="273" y="154" key="new project wizard" timestamp="1583131638764">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="273" y="154" key="new project wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1583131638764" />
   </component>
 </project>

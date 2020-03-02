@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/tz-es-demo/pom.xml" />
         <option value="$PROJECT_DIR$/tz-springsecurity-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../tz-redis/pom.xml" />
       </list>
     </option>
   </component>

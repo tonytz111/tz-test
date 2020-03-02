@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tz-es-demo" />
+        <module name="tz-redis" />
         <module name="tz-springsecurity-test" />
+        <module name="tz-es-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="tz-es-demo" target="1.8" />
+      <module name="tz-redis" target="1.5" />
       <module name="tz-springsecurity-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
