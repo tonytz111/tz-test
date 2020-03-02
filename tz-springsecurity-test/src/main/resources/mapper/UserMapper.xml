@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tz.securitydemo.mapper.UserMapper">
+    <select id="getUser" resultType="com.tz.securitydemo.entity.Users">
+        SELECT
+        u.id id,
+        u.userName userName,
+        u.userPWD userPWD,
+        u.userRole userRole
+        FROM
+        userlogin u
+        WHERE
+        u.userName = #{userName}
+    </select>
+
+    <insert id="createUser">
+        INSERT INTO userlogin (
+        userName,
+        userPWD,
+        userRole )
+        VALUE
+        (
+        #{userName},
+        #{userPWD},
+        #{userRole})
+    </insert>
+</mapper>

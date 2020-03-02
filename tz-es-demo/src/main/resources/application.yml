@@ -1,0 +1,35 @@
+es:
+  host: 127.0.0.1
+  port: 9200
+  scheme: http
+  clusterName: tianzheng_cluster
+server:
+  port: 2222
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+  logging:
+    level: debug
+  application:
+    name: tzestest
+  http:
+    multipart:
+      maxFileSize : -1
+      maxRequestSize: -1
+  data:
+    elasticsearch:
+      cluster-name: tianzheng_cluster
+      cluster-nodes: localhost:9300
+    jackson:
+      default-property-inclusion: non_null
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+security:
+  basic:
+    enabled: false

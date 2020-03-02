@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tz-es-demo/tz-es-demo.iml" filepath="$PROJECT_DIR$/tz-es-demo/tz-es-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tz-springsecurity-test/tz-springsecurity-test.iml" filepath="$PROJECT_DIR$/tz-springsecurity-test/tz-springsecurity-test.iml" />
+    </modules>
+  </component>
+</project>

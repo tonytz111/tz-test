@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c38f027-ad0a-4bea-8d5b-564b774da3ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../Tools/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../Tools/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YYqglkikYoYLLSQZFuTopEm0HW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TZSecurityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tz.securitydemo.TZSecurityDemo" />
+      <module name="tz-springsecurity-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tz.securitydemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TZSecurityDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c38f027-ad0a-4bea-8d5b-564b774da3ee" name="Default Changelist" comment="" />
+      <created>1583129988843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583129988843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="197" key="#Project_Structure" timestamp="1583130073833">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="496" y="197" key="#Project_Structure/0.23.1792.1017@0.23.1792.1017" timestamp="1583130073833" />
+    <state x="761" y="432" key="Github.ShareDialog" timestamp="1583130259109">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="761" y="432" key="Github.ShareDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1583130259109" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1583130489285">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1583130489285" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1583130489284">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1583130489284" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1583130489283">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1583130489283" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1583130489284">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1583130489284" />
+    <state x="508" y="232" key="NewModule_or_Project.wizard" timestamp="1583130027112">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="508" y="232" key="NewModule_or_Project.wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1583130027112" />
+  </component>
+</project>

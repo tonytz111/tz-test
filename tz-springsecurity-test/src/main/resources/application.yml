@@ -1,0 +1,33 @@
+server:
+  port: 8088
+spring:
+  logging:
+    level: debug
+  application:
+    name: tz-springsecurity-test
+  http:
+    multipart:
+      maxFileSize : -1
+      maxRequestSize: -1
+  datasource:
+    username: root
+    password: tonytz111
+    url: jdbc:mysql://localhost:3306/tony?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.tz.securitydemo.entity
+#showSql
+logging:
+  level:
+    com:
+      tz: debug
+jwt:
+  secret: secret
+  expiration: 7200000
+  token: Authorization
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
