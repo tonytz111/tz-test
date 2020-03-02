@@ -11,6 +11,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class TZSecurityDemo {
 
     public static void main(String[] args) {
+        //启动类
         SpringApplication.run(TZSecurityDemo.class, args);
     }
 
